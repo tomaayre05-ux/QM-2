@@ -1,1 +1,1 @@
-this is a respository for QM@
+this is a respository for QM2
